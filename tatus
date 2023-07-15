@@ -1,0 +1,41 @@
+[33mcommit dc4970fc7eef6075995f7feeca2d402270182b1a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Abitosh <77037999+Abitosh@users.noreply.github.com>
+Date:   Thu Jul 13 22:27:39 2023 -0600
+
+    test
+
+[33mcommit 712d4fbd12f6c2f7e4d23792616e98972827cbae[m
+Author: Abitosh <77037999+Abitosh@users.noreply.github.com>
+Date:   Thu Jul 13 22:03:04 2023 -0600
+
+    testing repos
+
+[33mcommit 9913c479a3f82b611ed1b205740623d1ca6d847a[m
+Author: Abitosh <77037999+Abitosh@users.noreply.github.com>
+Date:   Wed Jul 12 20:36:40 2023 -0600
+
+    Add missing link and alt test to the company's logo. Screen readers won't read the images to users with disabilities without this information
+
+[33mcommit 5512e18a19a314934e794f118deb2c251d450b42[m
+Author: Abitosh <77037999+Abitosh@users.noreply.github.com>
+Date:   Mon Jul 10 20:33:23 2023 -0600
+
+    more tests
+
+[33mcommit 6880d2974e878ff0bb52633bf2abc06e05c8d305[m
+Author: Abitosh <77037999+Abitosh@users.noreply.github.com>
+Date:   Sun Jul 9 14:29:03 2023 -0600
+
+    edit README.md and hello_world.txt
+
+[33mcommit 0119ce31e9c6d14031187c8695fc4e67ad8cf13a[m
+Author: Abitosh <77037999+Abitosh@users.noreply.github.com>
+Date:   Sun Jul 9 14:25:41 2023 -0600
+
+    add hello_world.txt
+
+[33mcommit 723e4c6f39bf37c718ab2d863c84032505d79b84[m
+Author: Abitosh <77037999+Abitosh@users.noreply.github.com>
+Date:   Sun Jul 9 14:21:51 2023 -0600
+
+    Initial commit
